@@ -26,4 +26,3 @@ function setRandomBackground() {
 }
 setRandomBackground();
 setInterval(setRandomBackground, 600000);
-
