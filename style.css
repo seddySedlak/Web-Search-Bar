@@ -13,9 +13,6 @@ body {
   align-items: center;
   justify-content: center;
   background-image: url(photos/pexels-thatguycraig000-1563355.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
   z-index: -10;
 }
 /* body::before {
