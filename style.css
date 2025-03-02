@@ -12,7 +12,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(photos/pexels-thatguycraig000-1563355.jpg);
+  background-image: url(photos/pexels-thatguycraig000-1563355.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
