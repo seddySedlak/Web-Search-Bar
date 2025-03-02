@@ -9,8 +9,8 @@
 ✅ **Search Bar**: Integrated with Google for fast searches.  
 ✅ **Dynamic Background**: Updates every 10 minutes with images from Unsplash API.  
 ✅ **Quick Access Links**: Fast navigation to important websites (GitHub, Moodle, Google Classroom, etc.).  
-✅ **Minimalist Design**: Clean and modern UI with a sleek blurred effect.
-✅ **Responsive Layout**: Fully responsive design that adapts to different screen sizes.
+✅ **Minimalist Design**: Clean and modern UI with a sleek blurred effect.  
+✅ **Responsive Layout**: Fully responsive design that adapts to different screen sizes.  
 
 ---
 
