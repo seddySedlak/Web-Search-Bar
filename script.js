@@ -24,5 +24,5 @@ function setRandomBackground() {
       console.error("Error fetching data:", error);
     });
 }
-setRandomBackground();
-setInterval(setRandomBackground, 600000);
+// setRandomBackground();
+// setInterval(setRandomBackground, 600000);
